@@ -58,11 +58,6 @@ I made the decision to step away from my previous job to fully dedicate myself t
 ![](https://github-readme-stats.vercel.app/api?username=okinileo&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=okinileo&theme=dark)
 
----
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=okinileo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
